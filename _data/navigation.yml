@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Page One
+  link: /page-one/
+- name: Page Two
+  link: /page-two/
+- name: Page Three
+  link: /page-three/
