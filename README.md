@@ -1,2 +1,4 @@
-# gh-pages-bootstrap
-GitHub Pages Bootstrap
+# GitHub Pages Bootstrap
+
+- Jekyll-based site for GitHub Pages
+- Bootstrap front-end framework
