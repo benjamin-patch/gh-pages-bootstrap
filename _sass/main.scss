@@ -1,12 +1,12 @@
+// Custom bootstrap variables must be set or imported *before* bootstrap.
+@import "../assets/_vendor/bootstrap/scss/bootstrap";
+
 ::selection {
-  background: #17a2b8;
+  background: $primary;
   color: #fff;
 }
 /* for Firefox <62 */
 ::-moz-selection {
-  background: #17a2b8;
+  background: $primary;
   color: #fff;
 }
-
-// Custom bootstrap variables must be set or imported *before* bootstrap.
-@import "../assets/_vendor/bootstrap/scss/bootstrap";
