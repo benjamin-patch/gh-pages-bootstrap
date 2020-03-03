@@ -1,8 +1,8 @@
 - name: Home
-  link: /
+  link: /gh-pages-bootstrap/
 - name: Page One
-  link: /page-one/
+  link: /gh-pages-bootstrap/page-one/
 - name: Page Two
-  link: /page-two/
+  link: /gh-pages-bootstrap/page-two/
 - name: Page Three
-  link: /page-three/
+  link: /gh-pages-bootstrap/page-three/
