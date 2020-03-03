@@ -40,6 +40,9 @@ sass:
 #
 exclude:
   - README.md
+  - LICENSE
+  - package-lock.json
+  - node_modules
 
 # Custom build directory for GitHub pages
 # destination: docs
