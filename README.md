@@ -3,28 +3,6 @@
 - Jekyll-based site for GitHub Pages
 - Bootstrap front-end framework
 
-## Bootstrap Submodule
-This project contains the Bootstrap front-end framework as a git submodule. When
-cloning the repo, use this command to ensure the appropriate assets are included
-and initialized:
-
-```
-$ git clone --recurse-submodules [SSH or HTTPS repo URL]
-```
-
-If you already cloned the project and forgot `--recurse-submodules`, you can
-combine the `git submodule init` and `git submodule update` steps by running
-`git submodule update --init`.
-
-To also initialize, fetch and checkout any nested submodules, use the foolproof:
-
-```
-$ git submodule update --init --recursive
-```
-
-For more information, please read:
-[Git Tools - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
-
 ## Ruby Dev Environment: Linux
 - Install `rbenv` by cloning the GitHub repo
 - Set rbenv to `v1.1.2` via git
@@ -90,4 +68,4 @@ $ bundle exec jekyll serve
 ```
 
 The development site will load at
-[http://localhost:4000](http://localhost:4000/).
+[http://localhost:4000/gh-pages-bootstrap/](http://localhost:4000/gh-pages-bootstrap/).
