@@ -42,6 +42,7 @@ exclude:
   - README.md
   - LICENSE
   - Gemfile*
+  - CNAME
   - package-lock.json
   - node_modules
 
