@@ -1,5 +1,5 @@
 // Custom bootstrap variables must be set or imported *before* bootstrap.
-@import "../assets/_vendor/bootstrap/scss/bootstrap";
+@import "../node_modules/bootstrap/scss/bootstrap";
 
 ::selection {
   background: $primary;
