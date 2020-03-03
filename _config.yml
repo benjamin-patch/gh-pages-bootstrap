@@ -41,6 +41,7 @@ sass:
 exclude:
   - README.md
   - LICENSE
+  - Gemfile*
   - package-lock.json
   - node_modules
 
