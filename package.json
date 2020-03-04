@@ -1,0 +1,28 @@
+{
+  "name": "gh-pages-bootstrap",
+  "version": "0.1.0",
+  "description": "GitHub Pages Bootstrap",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamin-patch/gh-pages-bootstrap.git"
+  },
+  "keywords": [
+    "jekyll",
+    "bootstrap"
+  ],
+  "author": "Benjamin Patch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjamin-patch/gh-pages-bootstrap/issues"
+  },
+  "homepage": "https://github.com/benjamin-patch/gh-pages-bootstrap#readme"
+}
